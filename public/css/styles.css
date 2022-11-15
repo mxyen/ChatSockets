@@ -1,0 +1,50 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.7rem;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2rem;
+
+}
+
+body{
+    background-color: rgb(199, 222, 192);
+  
+   
+}
+
+.main-container{  
+    border: 5px solid rgb(92, 2, 110);
+    margin: 2rem;    
+    border-radius: 20px;
+    background-color: rgb(237, 181, 224);
+    display: inline-block;
+       
+}
+.chat{
+    margin: 3rem;    
+    background-color: rgb(237, 181, 224);
+       
+}
+
+
+
+article{
+    border: 6px solid salmon;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 2rem;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(193, 224, 250); 
+     
+}
+
+
+
